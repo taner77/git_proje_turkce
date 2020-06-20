@@ -5,9 +5,9 @@ public class FirstClass {
         System.out.println("First commit from local repository");
         System.out.println("Second commit from local repository");
 
-        
 
-        System.out.println("Conflict from github");
+
+        System.out.println("2.kez conflict yapiyoruz");
 
         System.out.println("First commit from  github");
     }
