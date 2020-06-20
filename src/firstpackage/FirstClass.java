@@ -7,7 +7,8 @@ public class FirstClass {
 
 
 
-        System.out.println("2.kez conflict yapiyoruz");
+        System.out.println("We are against the conflict");
+
 
         System.out.println("First commit from  github");
     }
